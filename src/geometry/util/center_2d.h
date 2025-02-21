@@ -13,9 +13,9 @@
 
 #include <cassert>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/geometry/kernel/point_2d.h"
-#include "codelibrary/geometry/kernel/segment_2d.h"
+#include "src/base/algorithm.h"
+#include "src/geometry/kernel/point_2d.h"
+#include "src/geometry/kernel/segment_2d.h"
 
 namespace cl {
 namespace geometry {

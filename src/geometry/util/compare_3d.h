@@ -11,7 +11,7 @@
 #ifndef GEOMETRY_UTIL_COMPARE_3D_H_
 #define GEOMETRY_UTIL_COMPARE_3D_H_
 
-#include "codelibrary/geometry/kernel/point_3d.h"
+#include "src/geometry/kernel/point_3d.h"
 
 namespace cl {
 namespace geometry {

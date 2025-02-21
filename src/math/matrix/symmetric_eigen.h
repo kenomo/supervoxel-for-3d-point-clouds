@@ -21,11 +21,11 @@
 #include <limits>
 #include <type_traits>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/equal.h"
-#include "codelibrary/math/matrix/matrix.h"
-#include "codelibrary/math/matrix/decompose/tridiagonal_decompose.h"
+#include "src/base/algorithm.h"
+#include "src/base/array.h"
+#include "src/base/equal.h"
+#include "src/math/matrix/matrix.h"
+#include "src/math/matrix/decompose/tridiagonal_decompose.h"
 
 namespace cl {
 namespace matrix {

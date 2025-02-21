@@ -11,7 +11,7 @@
 
 #include <cmath>
 
-#include "codelibrary/geometry/kernel/point_2d.h"
+#include "src/geometry/kernel/point_2d.h"
 
 namespace cl {
 

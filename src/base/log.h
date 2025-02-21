@@ -22,8 +22,8 @@
 #include <memory>
 #include <mutex>
 
-#include "codelibrary/base/macros.h"
-#include "codelibrary/base/message.h"
+#include "src/base/macros.h"
+#include "src/base/message.h"
 
 namespace cl {
 

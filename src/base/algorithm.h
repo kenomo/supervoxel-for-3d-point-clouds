@@ -15,7 +15,7 @@
 #include <functional>
 #include <numeric>
 
-#include "codelibrary/base/array.h"
+#include "src/base/array.h"
 
 namespace cl {
 

@@ -20,10 +20,10 @@
 #include <cmath>
 #endif // _USE_MATH_DEFINES
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/statistics/regression/linear_least_squares_fitting.h"
-#include "codelibrary/util/metric/squared_euclidean.h"
-#include "codelibrary/util/tree/kd_tree.h"
+#include "src/base/array.h"
+#include "src/statistics/regression/linear_least_squares_fitting.h"
+#include "src/util/metric/squared_euclidean.h"
+#include "src/util/tree/kd_tree.h"
 
 namespace cl {
 namespace geometry {

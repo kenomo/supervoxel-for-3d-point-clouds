@@ -13,10 +13,10 @@
 
 #include <cassert>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/array.h"
-#include "codelibrary/geometry/kernel/point_3d.h"
-#include "codelibrary/geometry/kernel/segment_3d.h"
+#include "src/base/algorithm.h"
+#include "src/base/array.h"
+#include "src/geometry/kernel/point_3d.h"
+#include "src/geometry/kernel/segment_3d.h"
 
 namespace cl {
 namespace geometry {

@@ -14,7 +14,7 @@
 #include <cstdint>
 #include <limits>
 
-#include "codelibrary/base/array.h"
+#include "src/base/array.h"
 
 namespace cl {
 

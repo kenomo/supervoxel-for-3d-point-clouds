@@ -12,7 +12,7 @@
 #include <cassert>
 #include <cmath>
 
-#include "codelibrary/base/message.h"
+#include "src/base/message.h"
 
 namespace cl {
 

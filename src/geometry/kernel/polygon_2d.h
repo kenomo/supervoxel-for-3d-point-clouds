@@ -12,11 +12,11 @@
 #include <algorithm>
 #include <cassert>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/geometry/kernel/box_2d.h"
-#include "codelibrary/geometry/kernel/point_2d.h"
-#include "codelibrary/geometry/kernel/segment_2d.h"
-#include "codelibrary/geometry/kernel/predicate_2d.h"
+#include "src/base/array.h"
+#include "src/geometry/kernel/box_2d.h"
+#include "src/geometry/kernel/point_2d.h"
+#include "src/geometry/kernel/segment_2d.h"
+#include "src/geometry/kernel/predicate_2d.h"
 
 namespace cl {
 

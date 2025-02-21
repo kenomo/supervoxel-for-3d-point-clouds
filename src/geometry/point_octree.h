@@ -11,10 +11,10 @@
 
 #include <cassert>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/geometry/kernel/box_3d.h"
-#include "codelibrary/util/metric/squared_euclidean.h"
-#include "codelibrary/util/tree/octree.h"
+#include "src/base/algorithm.h"
+#include "src/geometry/kernel/box_3d.h"
+#include "src/util/metric/squared_euclidean.h"
+#include "src/util/tree/octree.h"
 
 namespace cl {
 namespace geometry {

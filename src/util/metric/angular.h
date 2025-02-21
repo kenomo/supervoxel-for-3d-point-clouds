@@ -9,8 +9,8 @@
 #ifndef UTIL_METRIC_ANGULAR_H_
 #define UTIL_METRIC_ANGULAR_H_
 
-#include "codelibrary/base/macros.h"
-#include "codelibrary/util/metric/cosine.h"
+#include "src/base/macros.h"
+#include "src/util/metric/cosine.h"
 
 namespace cl {
 namespace metric {

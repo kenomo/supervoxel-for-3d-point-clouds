@@ -12,9 +12,9 @@
 #include <cassert>
 #include <cmath>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/statistics/kernel/mean.h"
-#include "codelibrary/statistics/kernel/median.h"
+#include "src/base/array.h"
+#include "src/statistics/kernel/mean.h"
+#include "src/statistics/kernel/median.h"
 
 namespace cl {
 

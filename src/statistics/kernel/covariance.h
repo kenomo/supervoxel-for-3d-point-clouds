@@ -11,8 +11,8 @@
 
 #include <cassert>
 
-#include "codelibrary/statistics/kernel/mean.h"
-#include "codelibrary/statistics/kernel/median.h"
+#include "src/statistics/kernel/mean.h"
+#include "src/statistics/kernel/median.h"
 
 namespace cl {
 

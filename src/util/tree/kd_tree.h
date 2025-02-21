@@ -14,11 +14,11 @@
 #include <cfloat>
 #include <cmath>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/macros.h"
-#include "codelibrary/base/object_pool.h"
-#include "codelibrary/util/metric/squared_euclidean.h"
+#include "src/base/algorithm.h"
+#include "src/base/array.h"
+#include "src/base/macros.h"
+#include "src/base/object_pool.h"
+#include "src/util/metric/squared_euclidean.h"
 
 namespace cl {
 

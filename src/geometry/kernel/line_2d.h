@@ -9,7 +9,7 @@
 #ifndef GEOMETRY_KERNEL_LINE_2D_H_
 #define GEOMETRY_KERNEL_LINE_2D_H_
 
-#include "codelibrary/geometry/kernel/segment_2d.h"
+#include "src/geometry/kernel/segment_2d.h"
 
 namespace cl {
 

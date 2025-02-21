@@ -16,10 +16,10 @@
 #include <ostream>
 #include <string>
 
-#include "codelibrary/base/message.h"
-#include "codelibrary/math/matrix/triplet_matrix.h"
-#include "codelibrary/math/vector.h"
-#include "codelibrary/util/array/array_2d.h"
+#include "src/base/message.h"
+#include "src/math/matrix/triplet_matrix.h"
+#include "src/math/vector.h"
+#include "src/util/array/array_2d.h"
 
 namespace cl {
 

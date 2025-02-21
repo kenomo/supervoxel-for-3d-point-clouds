@@ -9,8 +9,8 @@
 #ifndef GEOMETRY_KERNEL_LINE_3D_H_
 #define GEOMETRY_KERNEL_LINE_3D_H_
 
-#include "codelibrary/geometry/kernel/segment_3d.h"
-#include "codelibrary/math/vector.h"
+#include "src/geometry/kernel/segment_3d.h"
+#include "src/math/vector.h"
 
 namespace cl {
 

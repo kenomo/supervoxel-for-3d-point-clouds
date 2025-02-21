@@ -9,7 +9,7 @@
 #ifndef MATH_MATRIX_MATRIX_UTIL_H_
 #define MATH_MATRIX_MATRIX_UTIL_H_
 
-#include "codelibrary/math/matrix/matrix.h"
+#include "src/math/matrix/matrix.h"
 
 namespace cl {
 namespace matrix {

@@ -11,7 +11,7 @@
 #ifndef GEOMETRY_UTIL_COMPARE_2D_H_
 #define GEOMETRY_UTIL_COMPARE_2D_H_
 
-#include "codelibrary/geometry/kernel/segment_2d.h"
+#include "src/geometry/kernel/segment_2d.h"
 
 namespace cl {
 namespace geometry {

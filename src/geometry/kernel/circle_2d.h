@@ -18,8 +18,8 @@
 #include <cmath>
 #endif // _USE_MATH_DEFINES
 
-#include "codelibrary/geometry/kernel/point_2d.h"
-#include "codelibrary/geometry/kernel/box_2d.h"
+#include "src/geometry/kernel/point_2d.h"
+#include "src/geometry/kernel/box_2d.h"
 
 namespace cl {
 

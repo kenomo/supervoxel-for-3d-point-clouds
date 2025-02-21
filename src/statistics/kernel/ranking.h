@@ -11,8 +11,8 @@
 
 #include <cassert>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/array.h"
+#include "src/base/algorithm.h"
+#include "src/base/array.h"
 
 namespace cl {
 

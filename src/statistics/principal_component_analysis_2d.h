@@ -11,11 +11,11 @@
 
 #include <cassert>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/macros.h"
-#include "codelibrary/geometry/kernel/point_2d.h"
-#include "codelibrary/geometry/util/center_2d.h"
-#include "codelibrary/math/matrix.h"
+#include "src/base/algorithm.h"
+#include "src/base/macros.h"
+#include "src/geometry/kernel/point_2d.h"
+#include "src/geometry/util/center_2d.h"
+#include "src/math/matrix.h"
 
 namespace cl {
 namespace statistics {

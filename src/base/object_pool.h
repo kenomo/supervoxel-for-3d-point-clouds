@@ -13,7 +13,7 @@
 #include <cassert>
 #include <climits>
 
-#include "codelibrary/base/macros.h"
+#include "src/base/macros.h"
 
 namespace cl {
 

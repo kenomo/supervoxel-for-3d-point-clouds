@@ -11,7 +11,7 @@
 
 #include <cassert>
 
-#include "codelibrary/base/array.h"
+#include "src/base/array.h"
 
 namespace cl {
 

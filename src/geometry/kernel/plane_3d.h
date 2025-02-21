@@ -9,7 +9,7 @@
 #ifndef GEOMETRY_KERNEL_PLANE_3D_H_
 #define GEOMETRY_KERNEL_PLANE_3D_H_
 
-#include "codelibrary/geometry/kernel/line_3d.h"
+#include "src/geometry/kernel/line_3d.h"
 
 namespace cl {
 

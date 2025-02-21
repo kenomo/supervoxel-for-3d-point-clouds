@@ -13,8 +13,8 @@
 #include <cassert>
 #include <cmath>
 
-#include "codelibrary/base/macros.h"
-#include "codelibrary/util/set/dynamic_bitset.h"
+#include "src/base/macros.h"
+#include "src/util/set/dynamic_bitset.h"
 
 namespace cl {
 namespace metric {

@@ -14,13 +14,13 @@
 #include <cfloat>
 #include <queue>
 
-#include "codelibrary/base/algorithm.h"
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/macros.h"
-#include "codelibrary/geometry/kernel/point_3d.h"
-#include "codelibrary/geometry/point_cloud/grid_sample.h"
-#include "codelibrary/statistics/kernel/median.h"
-#include "codelibrary/util/set/disjoint_set.h"
+#include "src/base/algorithm.h"
+#include "src/base/array.h"
+#include "src/base/macros.h"
+#include "src/geometry/kernel/point_3d.h"
+#include "src/geometry/point_cloud/grid_sample.h"
+#include "src/statistics/kernel/median.h"
+#include "src/util/set/disjoint_set.h"
 
 namespace cl {
 namespace geometry {

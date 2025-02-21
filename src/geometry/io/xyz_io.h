@@ -12,10 +12,10 @@
 #include <fstream>
 #include <sstream>
 
-#include "codelibrary/base/array.h"
-#include "codelibrary/base/log.h"
-#include "codelibrary/geometry/kernel/point_3d.h"
-#include "codelibrary/visualization/color/rgb32_color.h"
+#include "src/base/array.h"
+#include "src/base/log.h"
+#include "src/geometry/kernel/point_3d.h"
+#include "src/visualization/color/rgb32_color.h"
 
 namespace cl {
 namespace geometry {

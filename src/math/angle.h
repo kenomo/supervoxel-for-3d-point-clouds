@@ -16,7 +16,7 @@
 #include <cmath>
 #endif // _USE_MATH_DEFINES
 
-#include "codelibrary/math/vector.h"
+#include "src/math/vector.h"
 
 namespace cl {
 namespace angle {

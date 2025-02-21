@@ -12,8 +12,8 @@
 #include <cassert>
 #include <limits>
 
-#include "codelibrary/math/matrix/matrix.h"
-#include "codelibrary/math/matrix/matrix_util.h"
+#include "src/math/matrix/matrix.h"
+#include "src/math/matrix/matrix_util.h"
 
 namespace cl {
 namespace matrix {
