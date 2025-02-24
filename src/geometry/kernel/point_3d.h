@@ -145,6 +145,13 @@ public:
 typedef Point3D<int>    IPoint3D;
 typedef Point3D<double> RPoint3D;
 
+/// Point with Normal.
+struct PointWithNormal : RPoint3D {
+    PointWithNormal() {}
+
+    RVector3D normal;
+};
+
 } // namespace cl
 
 #endif // GEOMETRY_KERNEL_POINT_3D_H_
