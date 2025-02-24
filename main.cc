@@ -14,8 +14,8 @@
 #include "src/geometry/util/distance_3d.h"
 #include "src/util/tree/kd_tree.h"
 
-#include "vcss/vccs_knn_supervoxel.h"
-#include "vcss/vccs_supervoxel.h"
+#include "vccs/vccs_knn_supervoxel.h"
+#include "vccs/vccs_supervoxel.h"
 
 #include "Metrics.h"
 
