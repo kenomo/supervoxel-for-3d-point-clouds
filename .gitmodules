@@ -1,0 +1,3 @@
+[submodule "libs/vcpkg-cmake-integration"]
+	path = libs/vcpkg-cmake-integration
+	url = https://github.com/bitmeal/vcpkg-cmake-integration.git
