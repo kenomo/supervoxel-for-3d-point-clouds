@@ -48,7 +48,8 @@ public:
      * resolutions.
      */
     VCCSKNNSupervoxel(const cl::KDTree<cl::RPoint3D>& kd_tree,
-                      double seed_resolution)
+                      double seed_resolution,
+                      int k_neighbors)
         : seed_resolution_(seed_resolution),
           spatial_importance_(0.4),
           normal_importance_(1.0),
@@ -63,7 +64,7 @@ public:
         neighbors_.resize(size_points_);
         normals_.resize(size_points_);
         for (int i = 0; i < kd_tree_.size(); ++i) {
-            kd_tree_.FindKNearestNeighbors(kd_tree_.points()[i], 20,
+            kd_tree_.FindKNearestNeighbors(kd_tree_.points()[i], k_neighbors,
                                            &neighbors_[i]);
         }
         cl::Array<cl::RPoint3D> neighbor_points;

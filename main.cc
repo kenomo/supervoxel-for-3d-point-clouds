@@ -243,7 +243,7 @@ int main(int argc, char *argv[]) {
         cl::KDTree<cl::RPoint3D> kdtree;
         kdtree.SwapPoints(&points);
 
-        VCCSKNNSupervoxel vccs_knn(kdtree, resolution);
+        VCCSKNNSupervoxel vccs_knn(kdtree, resolution, k_neighbors);
         cl::Array<VCCSKNNSupervoxel::Supervoxel> vccs_knn_supervoxels;
         vccs_knn.Segment(&labels, &vccs_knn_supervoxels);
         n_out_supervoxels = vccs_knn_supervoxels.size();
