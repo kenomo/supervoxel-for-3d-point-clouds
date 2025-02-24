@@ -129,7 +129,7 @@ int main(int argc, char *argv[]) {
     }
 
     int n_points = cloud->size();
-    LOG(INFO) << "Loaded point cloud with " << n_points << " points are imported";
+    LOG(INFO) << "Loaded point cloud with " << n_points << " points";
 
     
     ////////////////////////////////////////////////////////////////////////////////////////////////////////
