@@ -220,7 +220,7 @@ int main(int argc, char *argv[]) {
         }
 
     } else if (method == "vccs") {
-        LOG(INFO) << "VCSS supervoxel computation";
+        LOG(INFO) << "VCCS supervoxel computation";
 
         cl::Array<cl::RPoint3D> points;
         for (int i = 0; i < n_points; ++i) {
@@ -233,7 +233,7 @@ int main(int argc, char *argv[]) {
         n_out_supervoxels = vccs_supervoxels.size();
 
     } else if (method == "vccs_knn") {
-        LOG(INFO) << "VCSS KNN supervoxel computation";
+        LOG(INFO) << "VCCS KNN supervoxel computation";
 
         cl::Array<cl::RPoint3D> points;
         for (int i = 0; i < n_points; ++i) {
