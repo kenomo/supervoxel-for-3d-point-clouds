@@ -1,4 +1,11 @@
-CLI for [Supervoxel for 3D point clouds](https://github.com/yblin/Supervoxel-for-3D-point-clouds).
+# CLI for [Supervoxel for 3D point clouds](https://github.com/yblin/Supervoxel-for-3D-point-clouds)
+
+## Build
+```
+mkdir build && cd build
+cmake ..
+make
+```
 
 ## Methods
 
